@@ -1,7 +1,5 @@
 # How To Make A Workout
 
-
-
 ## 0.0.0 Notes before Reading
 
 It is recomended but not required that you start here. This section will include decriptions that will help you to understand the way this document is formatted and discussions for general concepts that are helpful to understand the ideas behind certain workouts.
@@ -20,7 +18,16 @@ This document will contain examples of and templates for warm-up, workouts, and 
 
 ### 0.3.0 Discussion
 This section will include genneral discussion of exercise concepts that are helpful for understanding the prose and cons of every workout. 
-#### 0.3.1 
+
+#### 0.3.1 The Pros and Cons of Cardio
+
+#### 0.3.2 Strength VS Endurance
+
+#### 0.3.3 Full Body Workouts
+
+#### 0.3.4 Muscle Group Targeting
+
+#### 0.3.5 The Workout Compass 
 
 ## 1.0.0 Warm-Up
 The point of a warm up is to make sure you don't get injured. To do that a warm up need to:
@@ -32,74 +39,144 @@ But, a good warm up goes one step further. A good warm-up, *prepares you for the
 
 A lot of people make warm-ups into games, or bike/run to the gym and and do low intensity wait training to loosten up. If you have ever played a sport than you know that a lot of sport team incorperate **Dynamic Stretches** into there warm-ups. 
 
+Also, note that warm-ups are usually best done as a **cycle**. For a detailed explination of cycles please see the Appendix A Section A.2.
+
+
 ### 1.1.0 Basic Warm-Up
 
 A basic warm up has everything a warm up needs. They are bare bones, functional, and relitivly quick. Basic Warm-Ups are also better for beginners or people who haven't exercised for a while. Basic Warm-Ups empisise **simple** low intinsity movements.
 
 #### 1.1.1 Example (Chest & Back)
-- Walk/Jog/Run (10 Min)
-- Streaches (2 Min)
-  - [Doorway](https://exrx.net/Stretches/ChestGeneral/Doorway): 3 x 20 Sec 
-  - [Fixed Bar](https://exrx.net/Stretches/BackGeneral/FixedBar): 3 x 20 Sec 
-- Functional Movement
-  - [Push-Ups](https://exrx.net/WeightExercises/PectoralSternal/BWPushup): 3 X 10 Reps
-  - [Inverted Row](https://exrx.net/WeightExercises/BackGeneral/BWSupineRow): 3 x 10 Reps
-- Rest (1 Min)
+
+|**Warm-Up**| | |
+|:---|---:|---:|
+|**Cardio**| | |
+|Walk / Jog / Run| | 10 Min|
+| | | |
+|**Stretches**| | Cycle |
+| Stretch | Sets | Time (Sec) |
+|[Doorway](https://exrx.net/Stretches/ChestGeneral/Doorway)|3|20|
+|[Fixed Bar](https://exrx.net/Stretches/BackGeneral/FixedBar)|3|20|
+| | | |
+|**Functional Movement**| | Cycle |
+| Movement | Sets | Reps |
+|---|---:|---:|
+|[Push-Ups](https://exrx.net/WeightExercises/PectoralSternal/BWPushup)|3|10-15|
+|[Fixed Bar](https://exrx.net/Stretches/BackGeneral/FixedBar)|3|20|
+| | | |
+|**Rest**| | 1 Min|
+
   
 #### 1.1.2 Example (Arm & Shoulder)
-- Walk/Jog/Run (10 Min)
-- Streaches (5 Min)
-  - []()
-  - []()
-- Functional Movement
-  - []()
-  - []()
-- Rest (1 Min)
+|**Warm-Up**| | |
+|:---|---:|---:|
+|**Cardio**| | |
+|Cardio Movement| | Time |
+| | | |
+|**Stretches**| | **Cycle**|
+| Stretch | Sets | Time (Sec) |
+|[Overhead Triceps Stretch (Left)](https://exrx.net/Stretches/Triceps/Overhead)|3|20|
+|[Overhead Triceps Stretch (Right)](https://exrx.net/Stretches/Triceps/Overhead)|3|20|
+|[Praying Wrist Flexor Stretch](https://exrx.net/Stretches/WristFlexors/Praying)|3|20|
+|[Doorway Front Deltoid Stretch (Left)](https://exrx.net/Stretches/DeltoidAnterior/Doorway)|3|20|
+|[Doorway Front Deltoid Stretch (Right)](https://exrx.net/Stretches/DeltoidAnterior/Doorway)|3|20|
+| | | |
+|**Functional Movement**| | **Cycle**|
+| Movement | Sets | Reps |
+|[Bench Dips](https://exrx.net/WeightExercises/Triceps/BWBenchDip)|3|15-20|
+|[Close Grip Push-up](https://exrx.net/WeightExercises/Triceps/BWCloseGripPushup)|3|10-15|
+|[Inverted Biceps Row](https://exrx.net/WeightTraining/Glossary#Compound)|3|10-15|
+|[Pike Press](https://exrx.net/WeightExercises/DeltoidAnterior/BWPikePress)|3|10-15|
+|[Movement #5]()|#|#|
+|...|...|...|
+|[Movement #N]()|#|#|
+| | | |
+|**Rest**| | 1 Min|
+
 
 #### 1.1.3 Example (Legs & Core)
-- Walk/Jog/Run (10 Min)
-- Streaches (5 Min)
-  - []()
-  - []()
-- Functional Movement
-  - []()
-  - []()
-- Rest (1 Min)
+
+
+#### 1.1.4 Example (Full Body Workout)
+
 
 #### 1.1.4 Basic Warm-Up Template
-- Walk/Jog/Run (10 Min)
-- Streaches (5 Min)
-  - []()
-  - []()
-- Functional Movement
-  - []()
-  - []()
-- Rest (1 Min)
+|**Warm-Up**| | |
+|:---|---:|---:|
+|**Cardio**| | |
+|Cardio Movement| | Time |
+| | | |
+|**Stretches**| |[**Cycle** / **Conventional**]|
+| Stretch | Sets | Time (Sec) |
+|[Stretch #1]()|#|#|
+|[Stretch #2]()|#|#|
+|[Stretch #3]()|#|#|
+|[Stretch #4]()|#|#|
+|[Stretch #5]()|#|#|
+|...|...|...|
+|[Stretch #N]()|#|#|
+| | | |
+|**Functional Movement**| | |
+| Movement | Sets | Reps |
+|[Movement #1]()|#|#|
+|[Movement #2]()|#|#|
+|[Movement #3]()|#|#|
+|[Movement #4]()|#|#|
+|[Movement #5]()|#|#|
+|...|...|...|
+|[Movement #N]()|#|#|
+| | | |
+|**Rest**| | 1 Min|
 
-#### 1.1.4 Basic Warm-Up Template
-- Walk/Jog/Run (10 Min)
-- Streaches (5 Min)
-  - []()
-  - []()
-- Functional Movement
-  - []()
-  - []()
-- Rest (1 Min)
+A warm up should generally have 2-5 stretches and 2-5 movements.
 
 ### Advanced Warm-Ups
 #### 
 
-### 1.2.0 Good Warm-Up
-
 ## 2.0.0 Workout
+
+#### 2.0.1 General Workout Template
+
+|**Workout**| | [**Cycle** / **Conventional**]|
+|:---|---:|---:|
+|Exercise| Sets | Reps |
+|[Exercise #1]()|#|#|
+|[Exercise #2]()|#|#|
+|[Exercise #3]()|#|#|
+|[Exercise #4]()|#|#|
+|[Exercise #5]()|#|#|
+|...|...|...|
+|[Exercise #N]()|#|#|
+
+### 2.1.0 Simple Full Body
+
+### 2.2.0 Simple Muscle Grouping
+
+### 2.3.0 Complex Muscle Grouping
+
+### 2.4.0 Metabolic Conditioning
+
 
 ### Phase # (if multiple rounds)
 
 ## 3.0.0 Cool Down
 
 ## Appendix A: Key Terms
-**Cardio**:
+### A.1 Cardio
   Cardio, or arobic exercise, is any activity that raises you're heart rate into a target range. Normally that range is,  50% - 85% of the total [heart rate range](https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates). For more details read [this article from the mayo clinic](https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/heart-rate/faq-20057979). 
 
-**Functional Movement**: 
+### A.2 Functional Movements
   A Functional Movement is any workout that emulates real-life biometrics. They are usefule for a workout because they are low intensity movements that your body is used to. 
+
+### A.3 Cycles
+
+A **cycle** is when you perform every exersice in that section back to back then circle back to the first workout. For example if you were doing this hypothetical workout:
+
+|**Workout**| | **Cycle**|
+|:---|---:|---:|
+|Exercise| Sets | Reps |
+|[Pull-Up]()|10|10|
+|[Push-Ups]()|10|20|
+|[Squat (body Weight)]()|10|30|
+
+You would do 10 Pull-Ups then, 20 Push-ups then, 30 Squats. Then you will start back at the push ups and repeat that **cycle** 10 times. When doing a cycle you can rest between each cycle but you should avoid resting between workouts. Including a cycle in your workout plan will generally move your workout closer to the **Enderance** end of the spectrum. 
