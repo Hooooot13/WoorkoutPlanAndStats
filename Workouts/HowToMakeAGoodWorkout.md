@@ -86,10 +86,6 @@ A basic warm up has everything a warm up needs. They are bare bones, functional,
 |[Close Grip Push-up](https://exrx.net/WeightExercises/Triceps/BWCloseGripPushup)|3|10-15|
 |[Inverted Biceps Row](https://exrx.net/WeightTraining/Glossary#Compound)|3|10-15|
 |[Pike Press](https://exrx.net/WeightExercises/DeltoidAnterior/BWPikePress)|3|10-15|
-|[Movement #5]()|#|#|
-|...|...|...|
-|[Movement #N]()|#|#|
-| | | |
 |**Rest**| | 1 Min|
  
  
