@@ -27,7 +27,7 @@ This section will include genneral discussion of exercise concepts that are help
 
 #### 0.3.4 Muscle Group Targeting
 
-#### 0.3.5 The Workout Compass 
+#### 0.3.5 The Workout Compass
 
 ## 1.0.0 Warm-Up
 The point of a warm up is to make sure you don't get injured. To do that a warm up need to:
